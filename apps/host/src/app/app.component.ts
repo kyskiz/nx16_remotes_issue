@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'host';
   
   constructor() {
-    console.log('test 23');
+    console.log('edit test');
   }
   
 }
