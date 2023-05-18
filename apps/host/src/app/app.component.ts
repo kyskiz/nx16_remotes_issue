@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'host';
+  
+  constructor() {
+    console.log('test 23');
+  }
+  
 }
